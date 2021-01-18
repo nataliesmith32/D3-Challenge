@@ -3,6 +3,7 @@
   border: 1px solid #e3e3e3;
 }
 
+
 /* Sticky Footer rules (https://getbootstrap.com/examples/sticky-footer/) */
 html {
   position: relative;
@@ -11,16 +12,19 @@ html {
 
 h1 {
   font-family: Georgia;
-  padding-top: 10px;
+  padding-top: 5px;
   padding-bottom: 80px;
 }
+
+h2 {
+  font-family: Georgia;
+  padding-top: 5px;
+  text-align: center;}
 
 body {
   /* Padding bottom by footer height */
   padding-bottom: 80px;
 }
-
-
 
 #footer {
   position: absolute;
